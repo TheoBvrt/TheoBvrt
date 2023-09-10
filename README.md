@@ -32,8 +32,8 @@ Voici quelques-uns de mes projets notables :
 
 # Images :
 
-![WhatsApp Image 2023-06-26 à 22 48 14](https://github.com/TheoBvrt/TheoBvrt/assets/82822333/7bfb11c1-5ee1-4d6c-bd79-22c32ff39f14)
-![WhatsApp Image 2023-06-27 à 12 01 35](https://github.com/TheoBvrt/TheoBvrt/assets/82822333/ce0f872f-830e-4528-91b5-bc55db3ec6a1)
+![WhatsApp Image 2023-06-26 à 22 48 14](https://github.com/TheoBvrt/TheoBvrt/assets/82822333/ae631475-6ca2-4431-8570-ef881a097315)
+
 
 
 
