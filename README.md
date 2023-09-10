@@ -1,4 +1,4 @@
-Théo Bouverat
+### Théo Bouverat
 
 Bienvenue sur mon Github/portfolio 👋 ! 
 
