@@ -1,8 +1,6 @@
 Théo Bouverat
 
-![Aperçu du portfolio](lien_vers_une_capture_d_ecran_ou_image_du_portfolio.png)
-
-Bienvenue sur mon portfolio 👋 ! Ce répertoire contient des informations sur moi, mes compétences et mes projets. N'hésitez pas à explorer et à me contacter si vous avez des questions ou des opportunités de collaboration.
+Bienvenue sur mon Github/portfolio 👋 ! Ce répertoire contient des informations sur moi, mes compétences et mes projets. N'hésitez pas à explorer et à me contacter si vous avez des questions ou des opportunités de collaboration.
 
 ## À propos de moi
 
