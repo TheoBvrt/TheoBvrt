@@ -30,8 +30,6 @@ Voici quelques-uns de mes projets notables :<br /><br />
 - **Technologies utilisées** : Langage Dart, Flutter
 - **Lien vers le projet** : Privé
 
-Image :
-
 ![image](https://github.com/TheoBvrt/TheoBvrt/assets/82822333/28ea9c9d-17a2-4abc-9be0-4bfd129badaa) ![2](https://github.com/TheoBvrt/TheoBvrt/assets/82822333/1a100e94-f0ab-4caf-b245-b747126e1d7e) <br /><br />
 
 ### PushSwap
@@ -39,8 +37,6 @@ Image :
 - **Description** : PushSwap est un programme qui trie une pile de donnée efficacement en limitant le nombre d'opération maximales.
 - **Technologies utilisées** : Langage C
 - **Lien vers le projet** : https://github.com/TheoBvrt/PushSwap
-
-Image :
 
 ![pushswap](https://github.com/TheoBvrt/TheoBvrt/assets/82822333/16f68f50-2e27-4125-a59a-ac76cd3123b5)<br /><br />
 
@@ -50,7 +46,6 @@ Image :
 - **Description** : SoLong est un projet écrit en C. Le but étant de créer un mini jeu vidéo avec une condition de victoire, des objets à récupérer. Nous devons nous assurer que le jeu est réalisable.
 - **Technologies utilisées** : C, MinilibX
 - **Lien vers le projet** : https://github.com/TheoBvrt/So_long
-
 
 ![so_long](https://github.com/TheoBvrt/TheoBvrt/assets/82822333/2d5d5f5a-e6f4-4218-8430-64884d2ba601)<br /><br />
 
