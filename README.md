@@ -20,7 +20,7 @@ N'hésitez pas à explorer et à me contacter si vous avez des questions ou des 
 
 ## Projets
 
-Voici quelques-uns de mes projets notables :
+Voici quelques-uns de mes projets notables :<br /><br />
 
 ### MyThaiManager
 
@@ -42,7 +42,7 @@ Image :
 
 Image :
 
-![pushswap](https://github.com/TheoBvrt/TheoBvrt/assets/82822333/16f68f50-2e27-4125-a59a-ac76cd3123b5)
+![pushswap](https://github.com/TheoBvrt/TheoBvrt/assets/82822333/16f68f50-2e27-4125-a59a-ac76cd3123b5)<br /><br />
 
 
 ### SoLong
