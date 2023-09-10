@@ -30,11 +30,6 @@ Voici quelques-uns de mes projets notables :
 - **Technologies utilisées** : Langage Dart, Flutter
 - **Lien vers le projet** : Privé
 
-# Images :
-
-![WhatsApp Image 2023-06-26 à 22 48 14](https://github.com/TheoBvrt/TheoBvrt/assets/82822333/ae631475-6ca2-4431-8570-ef881a097315)
-
-
 
 
 ### PushSwap
