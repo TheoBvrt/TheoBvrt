@@ -52,6 +52,9 @@ Image :
 - **Lien vers le projet** : https://github.com/TheoBvrt/So_long
 
 
+![so_long](https://github.com/TheoBvrt/TheoBvrt/assets/82822333/2d5d5f5a-e6f4-4218-8430-64884d2ba601)<br /><br />
+
+
 ## Comment me contacter
 
 Vous pouvez me contacter via LinkedIn https://www.linkedin.com/in/th%C3%A9o-bouverat-634754235/
