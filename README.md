@@ -32,7 +32,8 @@ Voici quelques-uns de mes projets notables :
 
 Image :
 
-![image](https://github.com/TheoBvrt/TheoBvrt/assets/82822333/712dfac6-8d7c-4f28-bf00-067cc35223b5)
+![image](https://github.com/TheoBvrt/TheoBvrt/assets/82822333/28ea9c9d-17a2-4abc-9be0-4bfd129badaa)
+
 
 
 ### PushSwap
