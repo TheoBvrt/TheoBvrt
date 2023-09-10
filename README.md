@@ -22,6 +22,21 @@ N'hésitez pas à explorer et à me contacter si vous avez des questions ou des 
 
 Voici quelques-uns de mes projets notables :
 
+### MyThaiManager
+
+- **Description** : MyThaiManager est une application de gestion des stocks d'un traiteur Thaïlandais basé à Genève. Elle permet aux employés de chaque points de vente de commandé les produits dont ils ont besoins à la cuisine de traiteur.
+  Elle dispose d'un système de login pour prévenir des abus en cas de fuite.
+  
+- **Technologies utilisées** : Langage Dart, Flutter
+- **Lien vers le projet** : Privé
+
+# Images :
+
+![WhatsApp Image 2023-06-26 à 22 48 14](https://github.com/TheoBvrt/TheoBvrt/assets/82822333/7bfb11c1-5ee1-4d6c-bd79-22c32ff39f14)
+![WhatsApp Image 2023-06-27 à 12 01 35](https://github.com/TheoBvrt/TheoBvrt/assets/82822333/ce0f872f-830e-4528-91b5-bc55db3ec6a1)
+
+
+
 ### PushSwap
 
 - **Description** : PushSwap est un programme qui trie une pile de donnée efficacement en limitant le nombre d'opération maximales.
