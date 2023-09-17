@@ -49,6 +49,14 @@ Voici quelques-uns de mes projets notables :<br /><br />
 
 ![so_long](https://github.com/TheoBvrt/TheoBvrt/assets/82822333/2d5d5f5a-e6f4-4218-8430-64884d2ba601)<br /><br />
 
+### Conway's Game of Life
+
+- **Description** : Le Jeu de la vie est un automate cellulaire imaginé par John Horton Conway en 1970. Malgré des règles très simples, il est Turing-complet. C'est un jeu de simulation au sens mathématique.
+- **Technologies utilisées** : Java, JavaFX
+- **Lien vers le projet** : //
+
+![so_long](https://github.com/TheoBvrt/TheoBvrt/assets/82822333/2d5d5f5a-e6f4-4218-8430-64884d2ba601)<br /><br />
+
 
 ## Comment me contacter
 
