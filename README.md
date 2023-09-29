@@ -28,8 +28,8 @@ Voici quelques-uns de mes projets notables :<br /><br />
   
 - **Technologies utilisées** : Langage Java, SpringBoot
 - **Lien vers le projet** : https://github.com/TheoBvrt/ChessEngineClient et https://github.com/TheoBvrt/ChessEngineServer
-  
-![JeuD_Echec](https://github.com/TheoBvrt/TheoBvrt/assets/82822333/2f535791-f9e3-40fa-bb13-08e97fbcda2c) <br /><br />
+- 
+![2023-09-29-17-37-36](https://github.com/TheoBvrt/TheoBvrt/assets/82822333/0f0226e8-3175-4fdb-b131-772b47110fb9) <br /><br />
 
 ### MyThaiManager
 
