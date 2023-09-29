@@ -22,6 +22,15 @@ N'hésitez pas à explorer et à me contacter si vous avez des questions ou des 
 
 Voici quelques-uns de mes projets notables :<br /><br />
 
+### ChessEngine
+
+- **Description** : ChessEngine est un projet de jeu d'echec en multijoueur. Il utilise SpringBoot pour l'API et JavaFX pour le client du jeu. 
+  
+- **Technologies utilisées** : Langage Java, SpringBoot
+- **Lien vers le projet** : https://github.com/TheoBvrt/ChessEngineClient et https://github.com/TheoBvrt/ChessEngineServer
+  
+![JeuD_Echec](https://github.com/TheoBvrt/TheoBvrt/assets/82822333/2f535791-f9e3-40fa-bb13-08e97fbcda2c) <br /><br />
+
 ### MyThaiManager
 
 - **Description** : MyThaiManager est une application de gestion des stocks d'un traiteur Thaïlandais basé à Genève. Elle permet aux employés de chaque points de vente de commandé les produits dont ils ont besoins à la cuisine de traiteur.
