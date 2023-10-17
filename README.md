@@ -14,7 +14,7 @@ N'hésitez pas à explorer et à me contacter si vous avez des questions ou des 
 ## Compétences
 
 - C
-- C#
+- Java
 - Dart
 - Flutter
 
